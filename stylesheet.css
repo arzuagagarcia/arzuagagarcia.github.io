@@ -1,6 +1,6 @@
 .hero {
   position: relative;
-  background: url("images/header-background.jpg") center/cover no-repeat;
+  background: url("/images/header-background.jpg") center/cover no-repeat;
   height: 396px; /* adjust as you like */
   display: flex;
   align-items: center;
