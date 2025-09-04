@@ -1,7 +1,7 @@
-.hero {
+<--! .hero {
   position: relative;
-  background: url("/images/header-background.jpg") center/cover no-repeat;
-  height: 100px; /* adjust as you like */
+  /*background: url("/images/header-background.jpg") center/cover no-repeat */;
+  height: 360px; /* adjust as you like */
   display: flex;
   align-items: center;
   justify-content: center;
